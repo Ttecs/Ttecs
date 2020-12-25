@@ -45,7 +45,7 @@
 
   
 ## Statistics 🎨
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PulsaraSandeepa&show_icons=true&theme=radical&count_private=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
 
   <!-- -->
 
