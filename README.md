@@ -31,30 +31,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
 ## Statistics 🎨
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
-
-  <!-- -->
-
-
 
 
 ## Top Languages 🎉
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttecs&theme=tokyonight)
-<!--  -->
+
 
 
 [linkedin]: https://www.linkedin.com/in/sandakelum-bandara-a8a99817a/
