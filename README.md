@@ -6,17 +6,17 @@
 ## I'm a Undergraduate at University of Moratuwa!!
 
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React native asp.net core and react
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Games
+- 🥅 2020 Goals: Do 1 ore more my own projects
+- ⚡ Fun fact: I love to play vedio Games
 
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/96/000000/twitter.png" />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 
