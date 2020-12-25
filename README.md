@@ -65,12 +65,12 @@
   
 ## Statistics 🎨
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
- --- 
+
   <!-- BLOG-POST-LIST:START -->
 ## Top Languages 🎉
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttecs&theme=tokyonight)
-
+<!-- BLOG-POST-LIST:END -->
 
 
 [linkedin]: https://www.linkedin.com/in/sandakelum-bandara-a8a99817a/
