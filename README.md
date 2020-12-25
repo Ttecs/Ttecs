@@ -35,7 +35,8 @@
 ## Statistics 🎨
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
 
-
+<br/>
+<br/>
 ## Top Languages 🎉
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ttecs&theme=tokyonight)
 
