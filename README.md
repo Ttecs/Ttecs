@@ -38,6 +38,7 @@
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/fluent/144/000000/gimp.png" />
 <br/>
 <br/>
+
 ## Statistics 🎨
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
 
