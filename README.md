@@ -77,12 +77,12 @@
 
 </details>
 
-<details>
+
   
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-one-snowy.vercel.app/api?username=Ttecs&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 
