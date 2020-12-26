@@ -1,4 +1,4 @@
-# Hi there, I'm Sandakelum👋
+<!--# Hi there, I'm Sandakelum👋-->
 <p align="center"> 
     <a href="">
         <img src="https://github.com/Ttecs/Ttecs/blob/main/C9KFS9PI4MGNNOBC.gif" alt="Ttecs">
