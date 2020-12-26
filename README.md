@@ -5,7 +5,7 @@
     </a>
 </p>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janitham97&label=Profile%20views&color=0e75b6&style=flat" alt="janitham97" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Ttecs" /> </p>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
 
