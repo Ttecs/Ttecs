@@ -1,7 +1,7 @@
 # Hi there, I'm Sandakelum👋
 <p align="center"> 
     <a href="">
-        <img src="https://giphy.com/gifs/Ah3zHH7hvsSB2/html5" alt="Ttecs">
+        <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="Ttecs">
     </a>
 </p>
 
