@@ -42,6 +42,7 @@
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/ios-filled/100/ffffff/circled-c.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/dusk/128/ffffff/javascript-logo.png" />
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/fluent/144/000000/gimp.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <br/>
 <br/>
 
