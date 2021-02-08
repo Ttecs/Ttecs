@@ -5,8 +5,7 @@
     </a>
 </p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Ttecs" />
-https://badges.pufler.dev/years/{Ttecs}</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ttecs&label=Profile%20views&color=0e75b6&style=flat" alt="Ttecs" /></p>
 <p align="center"> <img src="https://badges.pufler.dev/years/Ttecs" alt="Ttecs" />
 </p>
 
