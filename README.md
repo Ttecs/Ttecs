@@ -1,7 +1,7 @@
 <!--# Hi there, I'm Sandakelum👋-->
 <p align="center"> 
     <a href="">
-        <img src="https://dms.uom.lk/remote.php/dav/files/55e7b6a0-86e8-1038-89be-29652a4129d8/Hnet-image.gif" width="500px" height="250px" alt="Ttecs">
+        <img src="https://hnet.com/video-to-gif/viewimage/20210606-06-PVWAroZTJvxAf3ZU-IPJ7IU-HNET" width="500px" height="250px" alt="Ttecs">
     </a>
 </p>
 <br/>
