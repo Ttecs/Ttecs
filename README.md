@@ -14,9 +14,9 @@
 ## I'm a Undergraduate at University of Moratuwa!! ✨
 
 <!-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently learning React native asp.net core and react
+- 🌱 I’m currently learning React native asp.net core and react 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Do 1 ore more my own projects
+- 🥅 2021 Goals: Do 1 ore more my own projects
 - ⚡ Fun fact: I love to play vedio Games
 
 
