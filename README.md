@@ -1,7 +1,7 @@
 <!--# Hi there, I'm Sandakelum👋-->
 <p align="center"> 
     <a href="">
-        <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="500px" height="250px" alt="Ttecs">
+        <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="530px" height="280px" alt="Ttecs">
     </a>
 </p>
 <br/>
