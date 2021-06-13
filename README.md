@@ -72,7 +72,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Ttecs&show_ic
 <h3 align="center"> CONNECT WITH ME <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" height="150">  </h3>
 </br>
 <p align="center">
-<a href="tharakahalkewelatecs@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
+<a href="www.tharakahalkewelatecs@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="facebook" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/sandakelum-bandara"" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
