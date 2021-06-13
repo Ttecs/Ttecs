@@ -1,4 +1,7 @@
-#                Hi there, I'm Sandakelum👋
+<h1 align="center">👋 Hi,I'm Ttecs.</h1>
+<h3></h3>
+</br>
+</br>
 <br/>
 <p align="center"> 
     <a href="">
