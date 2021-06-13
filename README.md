@@ -38,8 +38,8 @@
 <img align="left" alt="React" width="50" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/color/144/000000/visual-studio-2019.png" />
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/windows/96/ffffff/netbeans.png" />
-<img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/ios-filled/100/ffffff/circled-c.png" />
+
+
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/dusk/128/ffffff/javascript-logo.png" />
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/fluent/144/000000/gimp.png" />
 <img align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/firebase.png" />
