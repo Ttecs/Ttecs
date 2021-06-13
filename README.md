@@ -43,9 +43,10 @@
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/dusk/128/ffffff/javascript-logo.png" />
 <img align="left" alt="React" width="50" height="45" src="https://img.icons8.com/fluent/144/000000/gimp.png" />
 <img align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img  align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mysql" width="50" height="45"/> </a>
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="mysql" width="50" height="45"/> </a>
-<img  align="left" alt="Firebase" width="50" height="45" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+
 <br/>
 <br/>
 
