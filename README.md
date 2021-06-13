@@ -22,13 +22,10 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="80" height="75" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="80" height="75" src="https://img.icons8.com/fluent/144/000000/gmail--v1.png" />][Gmail]
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/96/000000/twitter.png" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://img.icons8.com/fluent/144/000000/gmail--v1.png" />][Gmail]
-
-<br />
 
 ### Languages and Tools:
 
