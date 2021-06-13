@@ -57,7 +57,7 @@
 
 <p align="center">
     <img align="left" alt="tharaka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=radical&count_private=true" />
-    <img align="center"
+    <img align="right"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ttecs&show_icons=true&locale=en&layout=compact&theme=radical"alt="Ttecs" /></p>
 
 </br>
