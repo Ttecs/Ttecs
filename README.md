@@ -69,6 +69,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=Ttecs&show_ic
 </br>
 
 
+<h3 align="center"> CONNECT WITH ME <img src="https://media.giphy.com/media/VfDrAEbN7pXdZwDsSC/giphy.gif" height="150">  </h3>
+</br>
+<p align="center">
+<a href="https://www.facebook.com/vindula.thisal" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/> </a>
+<a href="http://linkedin.com/in/thisal-vindula-b01a26151"" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+</p>
+
+
+
 
 
 
