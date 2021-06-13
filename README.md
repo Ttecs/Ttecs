@@ -1,4 +1,5 @@
-<!--# Hi there, I'm Sandakelum👋-->
+# Hi there, I'm Sandakelum👋
+<br/>
 <p align="center"> 
     <a href="">
         <img src="https://github.com/Ttecs/Ttecs/blob/main/Hnet-image%20(1).gif" width="530px" height="280px" alt="Ttecs">
