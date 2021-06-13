@@ -20,12 +20,7 @@
 - ⚡ Fun fact: I love to play vedio Games
 
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="80" height="75" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="80" height="75" src="https://img.icons8.com/fluent/144/000000/gmail--v1.png" />][Gmail]
-
-<br/>
 
 
 
