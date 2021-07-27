@@ -56,7 +56,7 @@
   
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&locale=en" alt="Ttecs" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ttecs&theme=radical"/>|
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&locale=en" alt="Ttecs&theme=radical" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ttecs&theme=radical"/>|
 |---|---|
 </br>
 
