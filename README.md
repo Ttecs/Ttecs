@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-## Statistics 🎨
+## Statistics <img src = "https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif?cid=ecf05e47zpy2p0ufbyvd1652j0gydr1qt7he8o5suenzr0vp&rid=giphy.gif&ct=s" width = 32px>
 
 
   
