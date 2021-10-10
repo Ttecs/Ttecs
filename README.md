@@ -66,8 +66,9 @@
 
 ## TOP PROGRAMMING LANGUAGES
 </br>
-  <a href="https://github.com/Ttecs/github-readme-stats"><img alt="Ttecs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=tokyonight" height="192px"/></a>
- <a href="https://github.com/Ttecs/github-readme-stats"><img alt="Ttecs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ttecs&layout=compact" height="192px"/></a>|--|--|
+<p align="center">
+  <a href="https://github.com/Ttecs/github-readme-stats"><img alt="Ttecs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&theme=tokyonight" height="192px"/></a></p>
+
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
