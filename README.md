@@ -56,8 +56,11 @@
   
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ttecs&show_icons=true&locale=en" alt="Ttecs&theme=radical" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ttecs&theme=radical"/>|
-|---|---|
+<p align="center">
+  <a href="https://github.com/Ttecs/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ttecs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ttecs&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 </br>
 
 
